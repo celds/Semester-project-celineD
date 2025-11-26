@@ -45,3 +45,20 @@ footer p{
     font-size: 1.2rem;
 }
 
+.Social-media ul{
+    list-style: none;
+    display: flex;
+    gap: 16px;
+    padding: 0;
+}
+
+.Social-media button{
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.Social-media img{
+    width: 32px;
+    height: 32px;   
+}
