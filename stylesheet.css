@@ -23,3 +23,25 @@ nav a{
     text-decoration: none;
     font-size: 2rem;
 }
+
+
+
+footer{
+    Background-color: #C30031;
+    color: white;
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+footer h2{
+    margin-bottom: 20px;
+    font-size: 2rem;
+}
+
+footer p{
+    margin: 24px 0;
+    font-size: 1.2rem;
+}
+
