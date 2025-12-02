@@ -133,3 +133,24 @@ footer p{
 .blue {background-color:#0064C8}
 .green {background-color:#45A434}
 .orange {background-color:#E26A00}
+
+
+
+/* ABOUT US PAGE */
+.about-us{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.about-us h2{
+    font-size: 60px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.about-us p{
+    font-size: 32px;
+    line-height: 1.6;
+    margin-bottom: 80px;
+}
