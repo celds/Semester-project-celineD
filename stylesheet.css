@@ -222,8 +222,45 @@ footer p{
 }
 
 
+
 /* EVENTS PAGE */
 
+main .events{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
 
+main h2{
+    font-size: 4rem;
+    margin-bottom: 40px;
+    text-align: center;
+}
 
+.events{
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    margin-bottom: 50px;
+    font-size: 1.6rem;
+}
 
+.events figure{
+    margin: 0;
+}
+
+.events img{
+    width: 220px;
+    height: auto;
+    border-radius: 4px;
+}
+
+.events h3{
+    font-size: 3.0rem;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.blue-events { color: blue; }
+.green-events { color: green; }
+.orange-events { color: orange; }
