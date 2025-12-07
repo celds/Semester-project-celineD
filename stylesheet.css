@@ -4,6 +4,8 @@ body{
     padding: 0;
 }
 
+
+
 /* HEADER */
 
 header{
@@ -73,7 +75,7 @@ footer p{
 
 
 
-/* HOME HERO SECTION */
+/* HOME PAGE*/
 
 .home-hero img{
     width: 100%;
@@ -85,7 +87,6 @@ footer p{
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
-/* HOME MAIN */
 
 .Home{
     display: flex;
@@ -261,6 +262,16 @@ main h2{
     margin-bottom: 10px;
 }
 
-.blue-events { color: blue; }
-.green-events { color: green; }
-.orange-events { color: orange; }
+.blue-events { color: #0064C8; }
+.green-events { color: #45A434; }
+.orange-events { color: #E26A00; }
+
+
+
+
+/* VISIT PAGE */
+
+
+.hero-visit{
+    
+}
