@@ -1,0 +1,51 @@
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+html {
+  -webkit-font-smoothing: antialiased;
+}
+
+
+ul,
+ol {
+  list-style: none;
+}
+
+
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+
+body {
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: inherit;
+}
