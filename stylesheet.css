@@ -271,7 +271,112 @@ main h2{
 
 /* VISIT PAGE */
 
-
-.hero-visit{
-    
+.hero-visit {
+  position: relative;     
+  width: 100%;
+  max-height: 400px;      
+  overflow: hidden;
 }
+
+.hero-visit img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;      
+  display: block;
+}
+
+.hero-visit h2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+  color: white;
+  text-align: center;
+  font-size: 4rem;
+  padding: 1rem 2rem;
+  border-radius: 6px;
+}
+
+
+
+.visit {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  padding: 2rem;
+  gap: 2rem;
+  margin: 0 auto;
+  max-width: 1400px;
+}
+
+
+.visit-img img {
+  display: block;
+  height: 100%;
+  max-height: 900px;
+  width: auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.visit-info {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  gap: 1 rem;
+}
+
+.hours {
+  background-color: #45A434;
+  color: white;
+  padding: 2rem;
+  flex: 2; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+
+}
+
+.hours ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 2rem;
+  line-height: 5rem;
+}
+
+.hours ul li{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ticket-info {
+  background-color: #E26A00;
+  color: white;
+  padding: 2rem;
+  flex: 1; 
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+  margin-top: 1rem;
+  font-size: 2rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.visit-more {
+  max-width: 1200px;
+  margin: 4rem auto;
+  padding: 0 1rem;
+  line-height: 1.6;
+}
+
+.visit-more h3 {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.visit-more p {
+  font-size: 1.5rem;
+  margin-bottom: 4rem;
+}
+
