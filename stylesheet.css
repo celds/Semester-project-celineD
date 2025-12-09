@@ -145,8 +145,8 @@ footer p{
 
 
 .blue {background-color:#0064C8}
-.green {background-color:#45A434}
-.orange {background-color:#E26A00}
+.green {background-color:#137D00}
+.orange {background-color:#C95000}
 
 
 
@@ -207,9 +207,9 @@ footer p{
 
 .explore section:nth-of-type(1){ background-color: #0064C8;}
 .explore section:nth-of-type(2){ background-color: #ffffff;}
-.explore section:nth-of-type(3){ background-color: #45A434;}
+.explore section:nth-of-type(3){ background-color: #137D00;}
 .explore section:nth-of-type(4){ background-color: #ffffff;}
-.explore section:nth-of-type(5){ background-color: #E26A00;}
+.explore section:nth-of-type(5){ background-color: #C95000;}
 
 .explore section:nth-of-type(1) p { color: #ffffff; }
 .explore section:nth-of-type(2) p { color: #000000; }
@@ -220,7 +220,7 @@ footer p{
 .explore section:nth-of-type(1) h2 { color: #ffffff; }
 .explore section:nth-of-type(2) h2 { color: #0064C8; }
 .explore section:nth-of-type(3) h2 { color: #ffffff; }
-.explore section:nth-of-type(4) h2 { color: #45A434; }
+.explore section:nth-of-type(4) h2 { color: #137D00; }
 .explore section:nth-of-type(5) h2 { color: #ffffff; }
 
 
@@ -290,8 +290,8 @@ main h2{
 }
 
 .blue-events { color: #0064C8; }
-.green-events { color: #45A434; }
-.orange-events { color: #E26A00; }
+.green-events { color: #137D00; }
+.orange-events { color: #C95000; }
 
 
 
@@ -350,7 +350,7 @@ main h2{
 }
 
 .hours {
-  background-color: #45A434;
+  background-color: #137D00;
   color: white;
   padding: 2rem;
   flex: 2; 
@@ -375,7 +375,7 @@ main h2{
 }
 
 .ticket-info {
-  background-color: #E26A00;
+  background-color: #C95000;
   color: white;
   padding: 2rem;
   flex: 1; 
