@@ -1,6 +1,8 @@
-# Yeah
+# celine's semester project
 
 
+
+This is my semester project for the community science museum project, here are the sources of the icons i used. 
 
 
 links for icons
