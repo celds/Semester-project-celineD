@@ -137,9 +137,11 @@ footer p{
 }
 
 
-.info-box h2 {
+.info-box h2 a{
     width: 100%;         
     margin: 0 0 1rem;
+    text-decoration: none;
+    color: white;
     font-size: clamp(2rem, 4vw, 4.2rem);
 }
 
